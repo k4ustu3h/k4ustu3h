@@ -1,7 +1,15 @@
-### Hi there, I'm [Kaustubh!](https://k4ustu3h.cf) 👋 <img alt="K4USTU3H_" style="float: right; width: 28vw;" src="https://raw.githubusercontent.com/k4ustu3h/k4ustu3h/master/assets/images/K4USTU3H_.png">
+### Hi there, I'm [Kaustubh!](https://k4ustu3h.cf) 👋 <img alt="K4USTU3H_" style="float: right; width: 25vw;" src="https://raw.githubusercontent.com/k4ustu3h/k4ustu3h/master/assets/images/K4USTU3H_.png">
 
 #### Just another copy-paster...
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 
