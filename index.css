@@ -18,7 +18,7 @@ body {
   background: var(--background-image) center center;
   background-repeat: no-repeat;
   background-size: cover !important;
-  color: var(--text) !important;
+  color: white !important;
   display: flex;
   flex-direction: column;
   height: 92vh;
@@ -54,7 +54,7 @@ body {
   font-size: 128px;
   height: 180px;
   transition: background 0.5s ease;
-  width: 180px;
+  width: 196px;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -130,7 +130,6 @@ body {
 }
 
 #username {
-  color: var(--text);
   font-family: "Asap Condensed", sans-serif;
   font-size: 22px;
 }
@@ -161,13 +160,9 @@ body {
 }
 
 #about a {
-  color: var(--text) !important;
+  color: white !important;
   font-weight: bold;
   text-decoration: none;
-}
-
-#about a:hover {
-  text-decoration: underline;
 }
 
 #about span {
