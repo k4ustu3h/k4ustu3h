@@ -1,7 +1,7 @@
 body {
   align-items: center;
-  background: var(--background);
-  color: var(--text);
+  background: var(--mdc-theme-background);
+  color: var(--mdc-theme-on-primary);
   font-family: "Manrope", sans-serif;
   font-feature-settings: "calt", "liga";
   font-size: 64px;
@@ -12,6 +12,10 @@ body {
   overflow-x: hidden;
   padding: 0%;
   width: 100vw;
+}
+
+a {
+  color: var(--mdc-theme-on-primary);
 }
 
 #profile {
@@ -82,7 +86,7 @@ body {
 }
 
 .display h1 {
-  color: var(--text);
+  color: var(--mdc-theme-on-primary);
   font-family: "Asap", sans-serif;
   font-size: 50px;
   font-weight: bold;
@@ -93,22 +97,6 @@ body {
   width: 18px;
 }
 
-.footer {
-  padding: 8vh 0;
-  text-align: center;
-  font-size: 16px;
-  width: 100%;
-}
-
-.footer a {
-  color: var(--text) !important;
-  font-family: "Manrope", sans-serif;
-  font-feature-settings: "calt", "liga";
-  font-variant-ligatures: normal;
-  font-weight: 700;
-  text-decoration: none;
-}
-
 #profile div {
   font-weight: bold;
   margin: 1.5vh 0;
@@ -116,17 +104,6 @@ body {
 
 .hidden {
   opacity: 0;
-}
-
-.bottom_section span {
-  font-weight: bold;
-  margin-right: 20px;
-}
-
-.socials span {
-  display: inline-block !important;
-  font-weight: normal !important;
-  margin-right: 2vw !important;
 }
 
 #username {
@@ -145,20 +122,6 @@ body {
   font-size: 18px;
 }
 
-.projects a {
-  display: flex;
-  text-decoration: none;
-
-  /* 30px is the gutter size in magic grid */
-  width: calc(49% - 30px);
-
-  /* 49% avoids a weird single column on some wide screens */
-}
-
-.socials span a {
-  font-weight: normal !important;
-}
-
 #about a {
   color: white !important;
   font-weight: bold;
@@ -170,57 +133,58 @@ body {
   margin: 1vh 0;
 }
 
-.bottom_section span i {
-  font-size: 15px;
+.socials {
+  color: var(--mdc-theme-on-primary);
+  margin: 3vh 0 !important;
+  text-decoration: none;
 }
 
-#about span i {
-  font-size: 16px;
+.socials span {
+  display: inline-block !important;
+  font-weight: normal !important;
+  margin-right: 2vw !important;
 }
 
-#work {
-  margin: 2vh 0;
-  padding: 4vh 0 !important;
-}
-
-#forks {
-  margin: 2vh 0;
-  padding: 4vh 0 !important;
+.socials span a {
+  font-weight: normal !important;
 }
 
 .projects {
   margin-left: -15px;
-
   /* align section w/ heading above */
 }
 
-.projects section {
-  background: var(--foreground);
-  border: 1px solid rgb(0, 0, 0, 0.08);
-  border-radius: 5px;
-  box-shadow: 0 0 0 rgb(0, 0, 0, 0);
-  color: var(--text);
-  display: inline-block;
-  margin: 1vh 0;
-  padding: 2.5vh 5%;
-  transform: scale(1);
-  transition: 0.4s ease-in-out;
-  width: 100%;
+.projects a {
+  text-decoration: none;
 }
 
-.projects section:hover {
-  border: 1px solid rgb(0, 0, 0, 0);
-  box-shadow: 0 15px 35px rgb(0, 0, 0, 0.06);
-  cursor: pointer;
-  transform: scale(1.03);
+.projects button {
+  display: inline-block;
+  padding: 16px;
+  padding-bottom: 38px;
+  margin: 16px;
+  margin-bottom: 12px;
+}
+
+.mdc-card__action-buttons a {
+  color: var(--mdc-theme-on-primary);
+}
+
+.fix {
+  /* 30px is the gutter size in magic grid */
+  width: calc(49% - 30px);
+  /* 49% avoids a weird single column on some wide screens */
 }
 
 .section_title {
   font-size: 24px;
   font-weight: bold;
-  margin: 1vh 0;
-  padding: 0 1px;
+  padding: 16px;
   word-wrap: break-word;
+}
+
+.section_title a {
+  margin-right: 0px;
 }
 
 .about_section {
@@ -228,24 +192,39 @@ body {
   font-size: 18px;
   font-weight: bold;
   margin: 2vh 0;
+  padding: 16px;
   word-wrap: break-word;
 }
 
-.bottom_section {
-  font-size: 14px;
-  margin: 1vh 0;
-  word-wrap: break-word;
+#forks {
+  margin: 2vh 0;
+  padding: 4vh 0 !important;
 }
 
-.socials {
-  color: var(--text);
-  margin: 3vh 0 !important;
-  text-decoration: none;
+#work {
+  margin: 2vh 0;
+  padding: 4vh 0 !important;
 }
 
 ::selection {
-  background: var(--text);
-  color: var(--background);
+  background: var(--mdc-theme-on-primary);
+  color: var(--mdc-theme-background);
+}
+
+.footer {
+  padding: 8vh 0;
+  text-align: center;
+  font-size: 16px;
+  width: 100%;
+}
+
+.footer a {
+  color: var(--mdc-theme-on-primary) !important;
+  font-family: "Manrope", sans-serif;
+  font-feature-settings: "calt", "liga";
+  font-variant-ligatures: normal;
+  font-weight: 700;
+  text-decoration: none;
 }
 
 @media (max-width: 800px) {
@@ -307,12 +286,16 @@ body {
 
   .projects {
     margin-left: 0;
-
     /* remove neg margin to align w/ header */
   }
 
-  .projects a {
+  .fix {
     width: 100%;
+  }
+
+  .projects button {
+    padding-bottom: 38px;
+    margin-bottom: 8px;
   }
 
   .projects section {
@@ -326,14 +309,12 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: var(--background);
+  background: var(--mdc-theme-background);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--text);
+  background: var(--mdc-theme-on-primary);
 }
-
-/* Iconify */
 
 .iconify {
   font-size: 22px;
@@ -348,16 +329,17 @@ body {
     url("https://source.unsplash.com/1280x720/?wallpaper") center center fixed;
   --background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.25), rgb(0, 0, 0)),
     url("https://source.unsplash.com/1280x720/?wallpaper");
-  --background: #000;
-  --foreground: #121212;
   --gradient: linear-gradient(90deg, #009bef, #c471ed, #b31818);
-  --text: #fff;
+  --mdc-theme-background: #000;
+  --mdc-theme-on-primary: #fff;
+  --mdc-theme-primary: #fff;
+  --mdc-theme-surface: #121212;
 }
 
 #display h1 {
   -webkit-background-clip: text;
   background-clip: text;
-  -webkit-text-fill-color: var(--text);
+  -webkit-text-fill-color: var(--mdc-theme-on-primary);
 }
 
 @media (max-width: 800px) {
