@@ -29,7 +29,6 @@
       href="https://avatars1.githubusercontent.com/u/49553711?v=4"
       type="image/png"
     />
-    <meta name="p:domain_verify" content="074c672fe9c3e43eb1565e6726bd2a79" />
     <meta name="description" content="Just another copy-paster..." />
     <meta
       property="og:image"
@@ -48,7 +47,6 @@
     <meta name="twitter:title" content="k4ustu3h" />
     <meta name="twitter:description" content="Just another copy-paster..." />
   </head>
-
   <body>
     <div id="profile">
       <div id="initials"><span>K_</span></div>
@@ -129,16 +127,6 @@
               rel="noopener"
             >
               <span class="iconify" data-icon="simple-icons:facebook"></span>
-            </a>
-          </span>
-          <span style="display: block">
-            <a
-              href="https://gravatar.com/kaustubhladiya"
-              target="_blank"
-              class="socials"
-              rel="noopener"
-            >
-              <span class="iconify" data-icon="simple-icons:gravatar"></span>
             </a>
           </span>
           <span style="display: block">
@@ -234,6 +222,26 @@
               rel="noopener"
             >
               <span class="iconify" data-icon="fa-brands:telegram"></span>
+            </a>
+          </span>
+          <span style="display: block">
+            <a
+              href="https://k4ustu3h.tumblr.com/"
+              target="_blank"
+              class="socials"
+              rel="noopener"
+            >
+              <span class="iconify" data-icon="simple-icons:tumblr"></span>
+            </a>
+          </span>
+          <span style="display: block">
+            <a
+              href="https://www.twitch.tv/k4ustu3h"
+              target="_blank"
+              class="socials"
+              rel="noopener"
+            >
+              <span class="iconify" data-icon="simple-icons:twitch"></span>
             </a>
           </span>
           <span style="display: block">
@@ -675,6 +683,42 @@
         </a>
       </div>
     </div>
-    <script src="index.js"></script>
+
+    <div id="script">
+      <script>
+        //Magic Grid
+        const magicProjectsGrid = new MagicGrid({
+          container: "#work_section",
+          animate: false,
+          gutter: 30, // default gutter size
+          static: true,
+          useMin: false,
+          maxColumns: 2,
+          useTransform: true,
+        });
+
+        const magicForksGrid = new MagicGrid({
+          container: "#forks_section",
+          animate: false,
+          gutter: 30, // default gutter size
+          static: true,
+          useMin: false,
+          maxColumns: 2,
+          useTransform: true,
+        });
+
+        $("document").ready(() => {
+          magicProjectsGrid.listen();
+          magicForksGrid.listen();
+        });
+
+        const buttons = document.querySelectorAll(
+          ".mdc-button, .mdc-icon-button, .mdc-card__primary-action, .mdc-card__action, .mdc-card__action--button"
+        );
+        for (const button of buttons) {
+          mdc.ripple.MDCRipple.attachTo(button);
+        }
+      </script>
+    </div>
   </body>
 </html>
