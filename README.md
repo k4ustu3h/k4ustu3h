@@ -24,7 +24,7 @@
 </br>
 
 <a href="https://codepen.io/k4ustu3h">
-  <img align="center" alt="Codepen" src="https://img.shields.io/badge/CodePen-%23000.svg?&style=for-the-badge&logo=codepen&logoColor=fff" />
+  <img alt="Codepen" src="https://img.shields.io/badge/CodePen-%23000.svg?&style=for-the-badge&logo=codepen&logoColor=fff" />
 </a>
 <a href="https://dev.to/k4ustu3h">
   <img alt="Dev" src="https://img.shields.io/badge/Dev-%230a0a0a.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=fff" />
