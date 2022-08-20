@@ -12,9 +12,9 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k4ustu3h&count_private=true&show_icons=true&title_color=d50000&text_color=eee&bg_color=121212&icon_color=d50000&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4ustu3h&count_private=true&title_color=d50000&text_color=eee&bg_color=121212&langs_count=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4ustu3h&count_private=true&title_color=d50000&text_color=eee&bg_color=121212&icon_color=b31818?username=anuraghazra&langs_count=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k4ustu3h&hide_border=true&background=121212&stroke=212121&ring=D50000&fire=FFD600&currStreakNum=2962FF&sideNums=BDBDBD&currStreakLabel=FFD600&sideLabels=616161&dates=424242)](https://git.io/streak-stats)
 
 ---
 
@@ -72,8 +72,6 @@
 </br>
 </br>
 </br>
-
-<img src="https://readme-jokes.vercel.app/api?bgColor=%23121212&qColor=%239e9e9e&aColor=%23eee&codeColor=%2300e676&hideBorder" alt="Jokes Card" />
 
 ![Copy Paste](https://img.shields.io/static/v1?label=CTRL%20%2B%20C&message=CTRL%20%2B%20V&color=2962ff&labelColor=448AFF&style=for-the-badge)
 
