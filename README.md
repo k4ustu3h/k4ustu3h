@@ -35,20 +35,26 @@
 <a href="https://fb.me/k4ustu3h">
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=fff" />
 </a>
+<a href="https://www.freecodecamp.org/k4ustu3h">
+  <img alt="freeCodeCamp" src="https://img.shields.io/freecodecamp/points/k4ustu3h?color=5a01a7&label=freecodecamp&logo=freecodecamp&style=for-the-badge" />
+</a>
 <a href="https://www.instagram.com/k4ustu3h">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=fff" />
 </a>
 <a href="https://keybase.io/k4ustu3h">
-  <img alt="Keybase" src="https://img.shields.io/badge/Keybase-%2333a0ff.svg?&style=for-the-badge&logo=keybase&logoColor=fff" />
+  <img alt="Keybase" src="https://img.shields.io/keybase/pgp/k4ustu3h?color=33a0ff&label=keybase%20pgp&logo=keybase&logoColor=fff&style=for-the-badge" />
 </a>
 <a href="https://www.linkedin.com/in/k4ustu3h/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://fosstodon.org/@k4ustu3h">
+  <img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109323809751625502?color=6364ff&domain=https%3A%2F%2Ffosstodon.org%2F&label=mastodon&logo=mastodon&logoColor=fff&style=for-the-badge" />
 </a>
 <a href="https://pinterest.com/k4ustu3h">
   <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23bd081c.svg?&style=for-the-badge&logo=pinterest" />
 </a>
 <a href="https://www.reddit.com/u/kaustubhladiya">
-  <img alt="Reddit" src="https://img.shields.io/reddit/user-karma/combined/kaustubhladiya?color=FF4500&logo=reddit&logoColor=fff&style=for-the-badge" />
+  <img alt="Reddit" src="https://img.shields.io/reddit/user-karma/combined/kaustubhladiya?color=ff4500&label=Reddit&logo=reddit&logoColor=fff&style=for-the-badge" />
 </a>
 <a href="https://www.snapchat.com/add/k4ustu3h">
   <img alt="Snapchat" src="https://img.shields.io/badge/Snapchat-%23fffc00.svg?&style=for-the-badge&logo=snapchat&logoColor=000" />
@@ -63,7 +69,7 @@
   <img alt="TV Time" src="https://img.shields.io/badge/TV_Time-%23FFD400.svg?&style=for-the-badge&logo=tvtime&logoColor=000" />
 </a>
 <a href="https://twitter.com/k4ustu3h">
-  <img alt="Twitter" src="https://img.shields.io/twitter/follow/k4ustu3h?color=1DA1F2&logo=twitter&logoColor=fff&style=for-the-badge" />
+  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=fff" />
 </a>
 <a href="https://forum.xda-developers.com/member.php?u=9461231">
   <img alt="XDA Developers" src="https://img.shields.io/badge/XDA_Developers-%23ea7100.svg?&style=for-the-badge&logo=xdadevelopers&logoColor=fff" />
