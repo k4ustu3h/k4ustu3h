@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
+<img src="https://raw.githubusercontent.com/k4ustu3h/k4ustu3h/main/assets/images/gif/general_kenobi.gif">
 
 <h2>I'm Kaustubh</h2>
 
-<h3> Just another copy-paster...</h2>
+<h3> Just another copy-paster...</h3>
 
-<img alt="K4USTU3H_" width="512" src="https://raw.githubusercontent.com/k4ustu3h/k4ustu3h/master/assets/images/K4USTU3H_/K4USTU3H_720p.png">
+<img alt="k4ustu3h." width="512" src="https://raw.githubusercontent.com/k4ustu3h/k4ustu3h/main/assets/images/svg/k4ustu3h._rectangle.svg">
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k4ustu3h&count_private=true&show_icons=true&title_color=d50000&text_color=eee&bg_color=121212&icon_color=d50000&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?border_radius=24&bg_color=231918&count_private=true&icon_color=ffb4a8&hide_border=true&include_all_commits=true&show_icons=true&text_color=F1DFDC&title_color=FFB4A8&username=k4ustu3h)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4ustu3h&count_private=true&title_color=d50000&text_color=eee&bg_color=121212&langs_count=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k4ustu3h&hide_border=true&background=121212&stroke=212121&ring=D50000&fire=FFD600&currStreakNum=2962FF&sideNums=BDBDBD&currStreakLabel=FFD600&sideLabels=616161&dates=424242)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?border_radius=24&count_private=true&bg_color=231918&hide_border=true&langs_count=10&text_color=F1DFDC&title_color=FFB4A8&username=k4ustu3h)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -26,59 +24,59 @@
 </br>
 
 <a href="https://codepen.io/k4ustu3h">
-  <img alt="Codepen" src="https://img.shields.io/badge/CodePen-%23000.svg?&style=for-the-badge&logo=codepen" />
+  <img alt="Codepen" src="https://img.shields.io/badge/codepen-000?logo=codepen&style=for-the-badge" />
 </a>
 <a href="https://dev.to/k4ustu3h">
-  <img alt="Dev" src="https://img.shields.io/badge/Dev-%230a0a0a.svg?&style=for-the-badge&logo=devdotto" />
+  <img alt="Dev" src="https://img.shields.io/badge/dev-0a0a0a?logo=devdotto&style=for-the-badge" />
 </a>
-  <img alt="Discord" src="https://img.shields.io/static/v1?label=Discord&message=k4ustu3h%235045&logo=discord&logoColor=fff&color=57F287&labelColor=5865F2&style=for-the-badge" />
+<a href="https://discordapp.com/users/391680565759180811">
+  <img alt="Discord" src="https://img.shields.io/badge/discord-5865f2?logo=discord&logoColor=fff&style=for-the-badge" />
+<a/>
+ 
 <a href="https://fb.me/k4ustu3h">
-  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=fff" />
+  <img alt="Facebook" src="https://img.shields.io/badge/facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" />
 </a>
 <a href="https://www.freecodecamp.org/k4ustu3h">
-  <img alt="freeCodeCamp" src="https://img.shields.io/freecodecamp/points/k4ustu3h?color=5a01a7&label=freecodecamp&logo=freecodecamp&style=for-the-badge" />
+  <img alt="freeCodeCamp" src="https://img.shields.io/freecodecamp/points/k4ustu3h?color=0a0a23&label=freecodecamp&logo=freecodecamp&style=for-the-badge" />
 </a>
 <a href="https://www.instagram.com/k4ustu3h">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=fff" />
+  <img alt="Instagram" src="https://img.shields.io/badge/instagram-e4405f?logo=instagram&logoColor=fff&style=for-the-badge" />
 </a>
 <a href="https://keybase.io/k4ustu3h">
   <img alt="Keybase" src="https://img.shields.io/keybase/pgp/k4ustu3h?color=33a0ff&label=keybase%20pgp&logo=keybase&logoColor=fff&style=for-the-badge" />
 </a>
 <a href="https://www.linkedin.com/in/k4ustu3h/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://fosstodon.org/@k4ustu3h">
-  <img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109323809751625502?color=6364ff&domain=https%3A%2F%2Ffosstodon.org%2F&label=mastodon&logo=mastodon&logoColor=fff&style=for-the-badge" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin&style=for-the-badge" />
 </a>
 <a href="https://pinterest.com/k4ustu3h">
-  <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23bd081c.svg?&style=for-the-badge&logo=pinterest" />
+  <img alt="Pinterest" src="https://img.shields.io/badge/pinterest-bd081c?logo=pinterest&style=for-the-badge" />
 </a>
 <a href="https://www.reddit.com/u/kaustubhladiya">
-  <img alt="Reddit" src="https://img.shields.io/reddit/user-karma/combined/kaustubhladiya?color=ff4500&label=Reddit&logo=reddit&logoColor=fff&style=for-the-badge" />
+  <img alt="Reddit" src="https://img.shields.io/badge/reddit-ff4500?logo=reddit&logoColor=fff&style=for-the-badge&" />
 </a>
 <a href="https://www.snapchat.com/add/k4ustu3h">
-  <img alt="Snapchat" src="https://img.shields.io/badge/Snapchat-%23fffc00.svg?&style=for-the-badge&logo=snapchat&logoColor=000" />
+  <img alt="Snapchat" src="https://img.shields.io/badge/Snapchat-fffc00?logo=snapchat&logoColor=000&style=for-the-badge" />
 </a>
 <a href="https://steamcommunity.com/id/k4ustu3h">
-  <img alt="Steam" src="https://img.shields.io/badge/Steam-%23000.svg?&style=for-the-badge&logo=steam" />
+  <img alt="Steam" src="https://img.shields.io/badge/Steam-000?logo=steam&style=for-the-badge" />
 </a>
 <a href="https://t.me/k4ustu3h">
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram" />
+  <img alt="Telegram" src="https://img.shields.io/badge/telegram-26a5e4?logo=telegram&style=for-the-badge" />
 </a>
-<a href="https://tvtime.com/r/1B8ed">
-  <img alt="TV Time" src="https://img.shields.io/badge/TV_Time-%23FFD400.svg?&style=for-the-badge&logo=tvtime&logoColor=000" />
+<a href="https://app.tvtime.com/user/22960700">
+  <img alt="TV Time" src="https://img.shields.io/badge/tv_time-ffd400?logo=tvtime&logoColor=000&style=for-the-badge" />
 </a>
-<a href="https://twitter.com/k4ustu3h">
-  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=fff" />
+<a href="https://x.com/k4ustu3h">
+  <img alt="X" src="https://img.shields.io/twitter/follow/k4ustu3h?style=for-the-badge&logo=x&labelColor=000&color=000" />
 </a>
 <a href="https://forum.xda-developers.com/member.php?u=9461231">
-  <img alt="XDA Developers" src="https://img.shields.io/badge/XDA_Developers-%23ea7100.svg?&style=for-the-badge&logo=xdadevelopers&logoColor=fff" />
+  <img alt="XDA Developers" src="https://img.shields.io/badge/xda_developers-ea7100.svg?logo=xdadevelopers&logoColor=fff&style=for-the-badge" />
 </a>
 
 </br>
 </br>
 </br>
 
-![Copy Paste](https://img.shields.io/static/v1?label=CTRL%20%2B%20C&message=CTRL%20%2B%20V&color=2962ff&labelColor=448AFF&style=for-the-badge)
+![Copy Paste](https://img.shields.io/static/v1?label=CTRL%20%2B%20C&message=CTRL%20%2B%20V&color=a0f&labelColor=2962ff&style=for-the-badge)
 
 </div>
